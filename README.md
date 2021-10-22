@@ -1,1 +1,6 @@
-# my_problems_resolved
+# 🎆🎆🎆 VERY IMPORTANT STUFF 🎆🎆🎆
+```
+Object.defineProperty(Object.prototype, 'lenght', {get: function() {
+   return this.length;
+}});
+```
